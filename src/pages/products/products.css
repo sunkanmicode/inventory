@@ -1,0 +1,45 @@
+.formProduct{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    background-color: gray;
+    padding: 30px;
+}
+.formInput{
+    margin: 20px;
+    padding: 10px;
+}
+.formInput input{
+    padding: 15px;
+    width: 400px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+.productBtn{
+    margin-top: 10px;
+
+}
+.productBtn button{
+    padding: 10px;
+    width: 150px;
+    background-color:  #428bca;
+    border-radius: 10px;
+    color: #fff;
+    border-color: #357ebd;
+    /* font-size: 25px; */
+    font: 14px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.table{
+    margin: auto;
+
+}
+.tableContainer{
+    width: 50%;
+
+    margin: 20px auto;
+}
+.tableContainer, th, td{
+    border: 1px solid black;
+
+}

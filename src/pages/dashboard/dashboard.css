@@ -1,0 +1,13 @@
+.table{
+    margin: auto;
+
+}
+.tableContainer{
+    width: 50%;
+
+    margin: 20px auto;
+}
+.tableContainer, th, td{
+    border: 1px solid black;
+
+}
